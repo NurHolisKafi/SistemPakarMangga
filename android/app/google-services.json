@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073940839737",
+    "project_id": "pendeteksi-mangga-aa08a",
+    "storage_bucket": "pendeteksi-mangga-aa08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073940839737:android:263d6d6126bd670a577ce8",
+        "android_client_info": {
+          "package_name": "com.example.pendeteksi_kerusakan_mangga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073940839737-1k2vvgt03am8mtbb66onpvvqvkutp304.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pendeteksi_kerusakan_mangga",
+            "certificate_hash": "18e2a25775b02a302867f5c60f8c856ca4f54ab5"
+          }
+        },
+        {
+          "client_id": "1073940839737-97o5v8ahvg1f11atbhb5f20lc8ios4fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_MOffqyOQR-W8sP0twRHcIzslk3LVQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073940839737-97o5v8ahvg1f11atbhb5f20lc8ios4fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
